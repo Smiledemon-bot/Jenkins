@@ -22,7 +22,7 @@ public class CarTest {
 
     @Test
     public void getName() {
-        assertEquals("平板车",car.getName());
+        assertEquals("五菱宏光",car.getName());
     }
 
     @Test
